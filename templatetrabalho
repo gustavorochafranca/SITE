@@ -1,0 +1,188 @@
+
+
+<!DOCTYPE HTML> 
+<HTML LANG="PT-BR">
+    <HEAD>  
+        <title></title>
+        <link rel="stylesheet" type="text/css" href="">
+        <meta charset="utf-8">
+        <script src="jquery.js"></script>
+        <style>
+           .site{
+                width:1000px; 
+                height:500px;
+           }
+            .header{
+                width:inherit; 
+                height:100px;
+                background-color:#00FF00 ;
+            }
+            .header1{
+                width:25%; 
+                height:100px;
+                display:inline-block;
+                float:right;
+                background-color:#0000FF ;
+            }
+            .header2{
+                width:25%; 
+                height:100px;
+                display:inline-block;
+                float:right;
+                background-color:#b33c3c;   
+            }
+            .header3{
+                width:25%; 
+                height:100px;
+                display:inline-block;
+                float:right;
+                background-color:cadetblue ; 
+            }
+            .header4{
+                width:25%; 
+                height:100px;
+                display:inline-block;
+                float:right;
+                background-color:#FF0000 ; 
+            }
+            .main{
+                width:inherit; 
+                height:350px;
+                background-color:#ADFF2F;  
+            }
+            .footer{
+                width:inherit; 
+                height:50px;
+                background-color:#00FF7F;
+            }
+            .footer1{
+                width:33%; 
+                height:50px;
+                display:inline-block;
+                float:right;
+                background-color:#FFFF00;   
+            }
+            .footer2{
+                width:33%; 
+                height:50px;
+                display:inline-block;
+                float:right;
+                background-color:#FF8C00;   
+            }
+            .footer3{
+                width:33%; 
+                height:50px;
+                display:inline-block;
+                float:right;
+                background-color:#FFD700; 
+            }
+            .esquerda{
+                width:200px; 
+                height:inherit;
+                display:inline-block;
+                float:right;
+                background-color:#228B22;    
+            }
+
+            .centro{
+                width:600px; 
+                height:inherit;
+                display:inline-block;
+                float:right;
+                background-color:#7FFF00;   
+            }
+            .direita{
+                width:200px; 
+                height:inherit;
+                background-color:#3CB371;
+            }
+            .direita1{
+            width:inherit;
+            height:50%;
+            background-color:#A020F0;
+        }
+            .direita2{
+            width:inherit;
+            height:50%;
+            background-color:#D2691E;
+            }
+            .esquerda{
+             width:200px; 
+            height:inherit;
+            background-color:#b33c3c;
+            }
+            .esquerda1{
+            width:inherit;
+            height:33%;
+            background-color:#FF00FF;
+            }
+            .esquerda2{
+             width:inherit;
+            height:33%;
+            background-color:#FFFF00;
+            }
+            .esquerda3{
+            width:inherit;
+            height:33%;
+            background-color:#FF0000;
+            }
+
+
+        </style>
+    </head>  
+    <body>
+        <div class="site">
+            <div class="header">
+                <div class="header1">
+                </div>
+                    <div class="header2">
+                    </div>
+                        <div class="header3">
+                        </div>
+                            <div class="header4">
+                             </div>
+                       
+
+            </div>
+            <div class="main">
+                <div class="esquerda">
+                    <div class="esquerda1">
+
+                    </div> 
+                    <div class="esquerda2">
+
+                    </div>
+                    <div class="esquerda3">
+
+                    </div>
+                 </div>   
+                 <div class="centro">
+
+                 </div>   
+                 <div class="direita">             
+                      <div class="direita1">
+
+                    </div>
+                    <div class="direita2">
+
+                    </div>
+                </div>
+
+            </div>
+            <div class="footer">
+                 
+                 <div class="footer1">
+
+                    </div>
+                    <div class="footer2">
+
+                    </div>
+                        <div class="footer3">
+
+                        </div>
+                
+                 </div>
+               
+        
+    </body>
+</HTML>
