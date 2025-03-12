@@ -1,5 +1,6 @@
 
 
+
 <!DOCTYPE HTML> 
 <HTML LANG="PT-BR">
     <HEAD>  
@@ -91,6 +92,55 @@
                 float:right;
                 background-color:#7FFF00;   
             }
+            .centro1{
+                width:inherit; 
+                height:175px;
+                display:inline-block;
+                float:right;
+                background-color:#7FFF00;  
+            }
+            .centroA{
+                width:50%; 
+                height:inherit;
+                display:inline-block;
+                float:right;
+                background-color:#7FFF00;    
+            }
+            .centroB{
+                width:50%; 
+                height:inherit;
+                display:inline-block;
+                float:right;
+                background-color:blueviolet;
+            }
+            .centro2{
+                width:inherit; 
+                height:175px;
+                display:inline-block;
+                float:right;
+                background-color:#7FFF00;
+            }    
+            .centroC{
+                width:33%; 
+                height:inherit;
+                display:inline-block;
+                float:right;
+                background-color:#228B22;
+            }
+            .centroD{
+                width:33%; 
+                height:inherit;
+                display:inline-block;
+                float:right;
+                background-color:#FF0000;
+            }
+            .centroE{
+                width:33%; 
+                height:inherit;
+                display:inline-block;
+                float:right;
+                background-color:aquamarine;
+            }
             .direita{
                 width:200px; 
                 height:inherit;
@@ -157,6 +207,27 @@
                     </div>
                  </div>   
                  <div class="centro">
+                    <div class="centro1">
+                        <div class="centroA">
+
+                        </div>
+                        <div class="centroB"> 
+
+                        </div>
+                        
+                    </div>
+                    <div class="centro2">
+                        <div class="centroC">
+
+                        </div>
+                        <div class="centroD">
+
+                        </div>
+                        <div class="centroE">
+
+                        </div>
+
+                    </div>
 
                  </div>   
                  <div class="direita">             
